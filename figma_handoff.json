@@ -29,5 +29,20 @@
       "control": 12,
       "field": 10
     }
+  "project": "EasyGold Prime Home",
+  "notes": "Fallback handoff because Figma MCP is not available in this environment.",
+  "frames": [
+    {"name": "Desktop 1600", "sections": ["Topbar", "Hero", "Metrics", "Features", "FAQ", "Modal"]}
+  ],
+  "tokens": {
+    "colors": {
+      "bg": "#05070F",
+      "surface": "rgba(13,18,34,0.72)",
+      "text": "#EEF2FF",
+      "muted": "#95A0C0",
+      "accent": "#D4AF37"
+    },
+    "radius": {"lg": 18, "md": 12, "sm": 10},
+    "font": {"family": "Inter", "h1": "56/1.08/800", "body": "16/1.6/400"}
   }
 }
