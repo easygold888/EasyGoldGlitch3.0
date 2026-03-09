@@ -1,0 +1,39 @@
+{
+  "project": "EasyGold XAU Engine Forensic Rebuild",
+  "notes": "Gold-on-black immersive landing with scroll storytelling upgrades and conversion-first structure.",
+  "sections": [
+    "Hero Fullscreen",
+    "Ticker",
+    "Scale Statement",
+    "Manifesto",
+    "Reasons",
+    "Marquee",
+    "Stats",
+    "Demo",
+    "Marquee 2",
+    "Backtest",
+    "Steps",
+    "Pricing",
+    "Network",
+    "FAQ",
+    "Terms",
+    "Final CTA",
+    "Modal",
+    "Urgency Bar",
+    "Footer"
+  ],
+  "tokens": {
+    "colors": {
+      "bg": "#050403",
+      "gold": "#D6AF58",
+      "champagne": "#F3DFAA",
+      "text": "#F6EFE3",
+      "muted": "#BBA98B"
+    },
+    "typography": {
+      "hero_serif": "Cormorant Garamond",
+      "ui_sans": "Inter",
+      "data_mono": "JetBrains Mono"
+    }
+  }
+}
