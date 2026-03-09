@@ -1,0 +1,33 @@
+{
+  "project": "EasyGold Atlas Home v2",
+  "status": "Redesign aligned to JS implementation",
+  "frame": "Desktop 1440",
+  "sections": [
+    "Sticky Header",
+    "Hero + Market Terminal",
+    "Execution Desks Grid",
+    "Exposure Simulator",
+    "Operational Process Timeline",
+    "Confidential Application Dialog"
+  ],
+  "tokens": {
+    "colors": {
+      "background": "#060810",
+      "panel": "rgba(12,18,34,0.72)",
+      "stroke": "rgba(210,221,255,0.18)",
+      "text": "#EDF2FF",
+      "muted": "#9BA9C9",
+      "gold": "#D7B35A"
+    },
+    "typography": {
+      "family": "Manrope",
+      "hero": "64/1.02/800",
+      "body": "16/1.6/500"
+    },
+    "radius": {
+      "panel": 18,
+      "control": 12,
+      "field": 10
+    }
+  }
+}
